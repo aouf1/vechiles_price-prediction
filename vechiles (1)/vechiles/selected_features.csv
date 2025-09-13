@@ -1,0 +1,16 @@
+Selected_Features
+make
+model
+cylinders
+mileage
+trim
+exterior_color
+interior_color
+engine_DOHC
+engine_Ohv
+engine_Turbo
+fuel_Diesel
+fuel_Gasoline
+drivetrain_All-wheel Drive
+drivetrain_Four-wheel Drive
+drivetrain_Front-wheel Drive
